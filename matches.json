@@ -49,5 +49,22 @@
       "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local":{
+      "nome": "Maracanã",
+      "imagem": "https://images.adsttc.com/media/images/5295/dbd0/e8e4/4ed1/2600/006e/newsletter/aerea_maracana_foto_erica_ramalho_IMG_6471.jpg?1385552841"
+    },
+    "mandante":{
+      "nome": "Alemanha",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/de.webp"
+    },
+    "visitante":{
+      "nome": "México",
+      "forca": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/mx.webp"
+    }
   }
 ]
